@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2EC7D447-8F63-495B-8F25-85727E873DF7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>set</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B83381D35B0364A828B65007554F1CDA0F173CAD</key>
+		<string>https://github.com/beckbikang/c-Algorithm-and-data-structure-Practice.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>xcode_project/algorithm_struct/set/set.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B83381D35B0364A828B65007554F1CDA0F173CAD</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/beckbikang/c-Algorithm-and-data-structure-Practice.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B83381D35B0364A828B65007554F1CDA0F173CAD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B83381D35B0364A828B65007554F1CDA0F173CAD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
