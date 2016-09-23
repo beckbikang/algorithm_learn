@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3DA8E9A21D94FB5400CEA560 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 3DA8E9A11D94FB5400CEA560 /* main.c */; };
+		3DA8E9AA1D9506C000CEA560 /* ohash.c in Sources */ = {isa = PBXBuildFile; fileRef = 3DA8E9A81D9506C000CEA560 /* ohash.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		3DA8E99E1D94FB5400CEA560 /* ohash */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ohash; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DA8E9A11D94FB5400CEA560 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		3DA8E9A81D9506C000CEA560 /* ohash.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ohash.c; sourceTree = "<group>"; };
+		3DA8E9A91D9506C000CEA560 /* ohash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ohash.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				3DA8E9A11D94FB5400CEA560 /* main.c */,
+				3DA8E9A91D9506C000CEA560 /* ohash.h */,
+				3DA8E9A81D9506C000CEA560 /* ohash.c */,
 			);
 			path = ohash;
 			sourceTree = "<group>";
@@ -119,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DA8E9A21D94FB5400CEA560 /* main.c in Sources */,
+				3DA8E9AA1D9506C000CEA560 /* ohash.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
