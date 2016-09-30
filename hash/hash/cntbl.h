@@ -33,7 +33,7 @@ void(*destroy)(void*data));
 //销毁
 void chtbl_destroy(CHTbl *htbl);
 //插入
-int chtbl_insert(CHTbl *htbl,void *data);
+int chtbl_insert(CHTbl *htbl,const void *data);
 //删除
 int chtbl_remove(CHTbl *htbl,void **data);
 //查找

@@ -43,7 +43,7 @@ void chtbl_destroy(CHTbl *htbl){
 }
 
 //插入
-int chtbl_insert(CHTbl *htbl,void *data){
+int chtbl_insert(CHTbl *htbl,const void *data){
     void *temp;
     int bucket,retval;
     
